@@ -1,7 +1,7 @@
-select  * from tele_consultaion.LoginOTP where userId=2097 and usertypeId=1 order by 1 desc;
+select  * from tele_consultaion.LoginOTP where userId=1173 and usertypeId=2 order by 1 desc;
 
 select * from tele_consultaion.Admin where phone='9372741739'
-select usertypeId,* from tele_consultaion.Doctor where phone='8652081182'
+select usertypeId,* from tele_consultaion.Doctor where phone='9811685139'
 
 select * from tele_consultaion.Usertype where id=2
 select * from tele_consultaion.Admin where id=0
